@@ -1,3 +1,12 @@
 Item (2) Würfel mit Doppelklick oder ACE benutzbar https://ace3mod.com/wiki/framework/interactionMenu-framework.html
 Macht immer Animation -> Gegenüber erkennt wie oft gewürfelt wird
 Man muss Gegenüber sein Ergebnis zeigen können
+
+1. Würfel im Inventar haben
+2. ACE self interact
+3. Würfel schütteln Animation
+4. Hand offen ausstreck Animation
+(5. Würfel Model auf Hand anzeigen)
+6a. Gewürfelte Zahlen hinten
+6b. Mitspieler über ACE Interaktion auf Würfel Ergebnisse hinten
+7. Animationen und Model reset
